@@ -16,24 +16,37 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 
 ## 📂 Estrutura do Projeto
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb)
+
+## 📂 Estrutura do Projeto
 | Arquivo | Descrição |
-|---------|-----------|
+|---|---|
 | [Projeto_API_USD_BRL_Colab.ipynb](Projeto_API_USD_BRL_Colab.ipynb) | Caderno principal do projeto |
 | [usd_brl_ultimos_30_dias.csv](usd_brl_ultimos_30_dias.csv) | Arquivo CSV com os dados da cotação |
 | [usd_brl_ultimos_30_dias.png](usd_brl_ultimos_30_dias.png) | Gráfico da cotação diária |
 | [usd_brl_ultimos_30_dias_mm7.png](usd_brl_ultimos_30_dias_mm7.png) | Gráfico da média móvel de 7 dias |
-| [resumo.txt](resumo.txt) | Estatísticas descritivas (média, mínima, máxima, etc.) |
-| [Projeto_API_USD_BRL.zip](Projeto_API_USD_BRL.zip) | Arquivos compactados do projeto |
+| [resumo.txt](resumo.txt) | Estatísticas descritivas |
+| [Projeto_API_USD_BRL.zip](Projeto_API_USD_BRL.zip?raw=1) | Arquivos compactados do projeto |
+
+## 📊 Resultados
+**Cotação diária (últimos 30 dias)**  
+![Gráfico Cotação](https://raw.githubusercontent.com/lua008ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias.png)
+
+**Média móvel de 7 dias**  
+![Gráfico MM7](https://raw.githubusercontent.com/lua008ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias_mm7.png)
+
 
 ---
 
 ## 📊 Resultados
+## 📊 Resultados
 
-### 📌 Cotação diária (últimos 30 dias)
-![Gráfico Cotação](usd_brl_ultimos_30_dias.png)
+### Cotação diária (últimos 30 dias)
+![Cotação diária](usd_brl_ultimos_30_dias.png)
 
-### 📌 Média móvel de 7 dias
-![Gráfico Média Móvel](usd_brl_ultimos_30_dias_mm7.png)
+### Média móvel de 7 dias
+![Média móvel](usd_brl_ultimos_30_dias_mm7.png)
+
 
 ---
 
