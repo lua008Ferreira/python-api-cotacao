@@ -1,32 +1,30 @@
-# 📈 Projeto API Cotação USD/BRL
+# 📈 Projeto API Cotação USD/BRL  
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008Ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb)
 
 Este projeto utiliza dados de uma **API pública de câmbio** para analisar a cotação do Dólar (USD) em relação ao Real (BRL) nos últimos 30 dias.  
-Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab** para execução.
+Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab** para execução.  
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
-
+## 🛠 Ferramentas Utilizadas
 - 🐍 **Python 3** (Google Colab) – linguagem principal e ambiente de execução  
 - 📊 **Pandas** – tratamento e manipulação dos dados  
 - 📉 **Matplotlib** – geração dos gráficos  
-- 🖥️ **IPython.display** – exibição dos resultados no notebook  
+- 💻 **IPython.display** – exibição dos resultados no notebook  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb)
-
-## 📂 Estrutura do Projeto
 | Arquivo | Descrição |
-|---|---|
-| [Projeto_API_USD_BRL_Colab.ipynb](Projeto_API_USD_BRL_Colab.ipynb) | Caderno principal do projeto |
-| [usd_brl_ultimos_30_dias.csv](usd_brl_ultimos_30_dias.csv) | Arquivo CSV com os dados da cotação |
-| [usd_brl_ultimos_30_dias.png](usd_brl_ultimos_30_dias.png) | Gráfico da cotação diária |
-| [usd_brl_ultimos_30_dias_mm7.png](usd_brl_ultimos_30_dias_mm7.png) | Gráfico da média móvel de 7 dias |
-| [resumo.txt](resumo.txt) | Estatísticas descritivas |
-| [Projeto_API_USD_BRL.zip](Projeto_API_USD_BRL.zip?raw=1) | Arquivos compactados do projeto |
+|---------|-----------|
+| [Projeto_API_USD_BRL_Colab.ipynb](./Projeto_API_USD_BRL_Colab.ipynb) | Caderno principal do projeto (Google Colab) |
+| [usd_brl_ultimos_30_dias.csv](./usd_brl_ultimos_30_dias.csv) | Arquivo CSV com os dados da cotação |
+| [usd_brl_ultimos_30_dias.png](./usd_brl_ultimos_30_dias.png) | Gráfico da cotação diária |
+| [usd_brl_ultimos_30_dias_mm7.png](./usd_brl_ultimos_30_dias_mm7.png) | Gráfico da média móvel de 7 dias |
+| [resumo.txt](./resumo.txt) | Estatísticas descritivas (média, mínima, máxima, etc.) |
+| [Projeto_API_USD_BRL.zip](./Projeto_API_USD_BRL.zip) | Arquivos compactados do projeto |
 
 ---
 
@@ -37,6 +35,8 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 
 ### Média móvel de 7 dias
 ![Média móvel](./usd_brl_ultimos_30_dias_mm7.png)
+
+
 
 
 
