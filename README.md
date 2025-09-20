@@ -28,18 +28,10 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 | [resumo.txt](resumo.txt) | Estatísticas descritivas |
 | [Projeto_API_USD_BRL.zip](Projeto_API_USD_BRL.zip?raw=1) | Arquivos compactados do projeto |
 
-## 📊 Resultados
-**Cotação diária (últimos 30 dias)**  
-![Gráfico Cotação](https://raw.githubusercontent.com/lua008ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias.png)
-
-**Média móvel de 7 dias**  
-![Gráfico MM7](https://raw.githubusercontent.com/lua008ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias_mm7.png)
-
-
 ---
 
 ## 📊 Resultados
-## 📊 Resultados
+
 
 ### Cotação diária (últimos 30 dias)
 ![Cotação diária](usd_brl_ultimos_30_dias.png)
