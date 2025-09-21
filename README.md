@@ -7,9 +7,9 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 
 ## 🛠️ Ferramentas Utilizadas
 - 🐍 **Python 3** (Google Colab) – linguagem principal e ambiente de execução  
-- 📊 **Pandas** – tratamento e manipulação dos dados  
+- 🐼 **Pandas** – tratamento e manipulação dos dados  
 - 📈 **Matplotlib** – geração dos gráficos  
-- 💻 **IPython.display** – exibição dos resultados no notebook  
+- 📓 **IPython.display** – exibição dos resultados no notebook  
 
 ---
 
@@ -17,32 +17,21 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 
 | Arquivo | Descrição |
 |---------|-----------|
-| [Projeto_API_USD_BRL_Colab.ipynb](Projeto_API_USD_BRL_Colab.ipynb) | Caderno principal do projeto |
-| [usd_brl_ultimos_30_dias.csv](usd_brl_ultimos_30_dias.csv) | Arquivo CSV com os dados da cotação |
-| [usd_brl_ultimos_30_dias.png](usd_brl_ultimos_30_dias.png) | Gráfico da cotação diária |
-| [usd_brl_ultimos_30_dias_mm7.png](usd_brl_ultimos_30_dias_mm7.png) | Gráfico da média móvel de 7 dias |
-| [resumo.txt](resumo.txt) | Estatísticas descritivas (média, mínima, máxima, etc.) |
-| [Projeto_API_USD_BRL.zip](Projeto_API_USD_BRL.zip) | Arquivos compactados do projeto |
+| [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008Ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb) | Caderno principal do projeto |
+| [usd_brl_ultimos_30_dias.csv](./usd_brl_ultimos_30_dias.csv) | Arquivo CSV com os dados da cotação |
+| [resumo.txt](./resumo.txt) | Estatísticas descritivas (média, mínima, máxima, etc.) |
+| [Projeto_API_USD_BRL.zip](./Projeto_API_USD_BRL.zip) | Arquivos compactados do projeto |
 
 ---
 
 ## 📊 Resultados
 
-### Cotação diária (últimos 30 dias)
-![Cotação diária](https://raw.githubusercontent.com/lua008Ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias.png)
+- Cotação diária (últimos 30 dias)  
+- Média móvel de 7 dias  
+- Estatísticas descritivas (média, mínima, máxima)  
 
-### Média móvel de 7 dias
-![Média móvel](https://raw.githubusercontent.com/lua008Ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias_mm7.png)
+*(As visualizações completas estão disponíveis ao rodar o notebook no Colab.)*
 
-
-
----## 🚀 Teste de Visualização
-
-### Botão do Colab  
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008Ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb)
-
-### Imagem de teste  
-![Cotação 30 dias](./usd_brl_ultimos_30_dias.png)
 
 
 
