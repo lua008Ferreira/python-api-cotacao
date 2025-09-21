@@ -34,15 +34,16 @@ Os dados foram tratados e visualizados em **Python**, utilizando **Google Colab*
 ### Média móvel de 7 dias
 ![Média móvel](https://raw.githubusercontent.com/lua008Ferreira/python-api-cotacao/main/usd_brl_ultimos_30_dias_mm7.png)
 
----
-
-## 🎯 Objetivo
-O objetivo foi **explorar dados de câmbio** por meio de uma API pública, aplicando conceitos de manipulação de dados, estatísticas simples e visualização gráfica.  
-
-Este projeto serve como exemplo prático de integração entre **APIs + Python + Google Colab + GitHub**.
 
 
----
+---## 🚀 Teste de Visualização
+
+### Botão do Colab  
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008Ferreira/python-api-cotacao/blob/main/Projeto_API_USD_BRL_Colab.ipynb)
+
+### Imagem de teste  
+![Cotação 30 dias](./usd_brl_ultimos_30_dias.png)
+
 
 
 ---
