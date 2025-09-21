@@ -44,6 +44,9 @@ Este projeto serve como exemplo prático de integração entre **APIs + Python +
 
 ---
 
+
+---
+
 ## 🎯 Objetivo do Projeto
 
 O objetivo deste projeto foi:  
